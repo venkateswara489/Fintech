@@ -1,0 +1,8 @@
+com\fintech\cloudscaling\controller\SimulationController.class
+com\fintech\cloudscaling\service\CloudSimService$SimulationResult.class
+com\fintech\cloudscaling\config\CorsConfig.class
+com\fintech\cloudscaling\dto\CloudletResult.class
+com\fintech\cloudscaling\dto\SimulationRequest.class
+com\fintech\cloudscaling\service\CloudSimService.class
+com\fintech\cloudscaling\dto\SimulationResponse.class
+com\fintech\cloudscaling\CloudScalingApplication.class
